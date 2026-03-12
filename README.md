@@ -190,7 +190,7 @@ gmx energy -f em.edr -o potential.xvg
 Select:
 
 ```
-Potential (Potential section that is almost always number 10 and then number 0)
+Potential (The potential option is almost always number 10, and then you must press number 0.)
 ```
 
 ---
