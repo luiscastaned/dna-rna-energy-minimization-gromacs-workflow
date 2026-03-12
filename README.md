@@ -168,7 +168,7 @@ gmx trjconv -s em.tpr -f em.gro -o DNA_RNA_min.pdb
 Select:
 
 ```
-System
+RNA
 ```
 
 ### Final minimized structure:
@@ -190,7 +190,7 @@ gmx energy -f em.edr -o potential.xvg
 Select:
 
 ```
-Potential
+Potential (Potential section that is almost always number 10 and then number 0)
 ```
 
 ---
